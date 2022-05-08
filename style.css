@@ -76,8 +76,8 @@ article a {
   color: #000;
 }
 
-article img {
-  width: 100%;
+article figure {
+  max-width: 100%;
   height: auto;
 }
 
