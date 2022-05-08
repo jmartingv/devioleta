@@ -81,6 +81,11 @@ article figure {
   height: auto;
 }
 
+article img {
+  max-width: 100%;
+  height: auto;
+}
+
 footer {
   text-align: center;
   font-size: small;
