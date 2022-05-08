@@ -1,0 +1,88 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.logo {
+  max-height: 125px;
+  width: auto;
+  font-family: "Cambria";
+}
+
+.violeta {
+  color: #fff;
+  background-color: #c9f;
+}
+
+.sub-logo {
+  font-family: "Bahnschrift";
+  font-weight: lighter;
+  color: #3b3838;
+}
+
+hr {
+  margin: 10px;
+}
+
+nav {
+  height: 50px;
+  background-color: #c9f;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  font-size: large;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #fff;
+}
+
+article {
+  text-align: center;
+  font-family: "Bahnschrift";
+}
+
+article h1 {
+  font-size: xx-large;
+  font-family: "Cambria";
+}
+
+article h5 {
+  color: #3b3838;
+}
+
+figcaption {
+  font-size: smaller;
+  color: #3b3838;
+  text-align: center;
+}
+
+article p {
+  margin: 30px 50px;
+  text-align: justify;
+  font-size: larger;
+}
+
+article a {
+  color: #000;
+}
+
+article img {
+  max-height: 350px;
+  width: auto;
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+  font-family: "Cambria";
+}
